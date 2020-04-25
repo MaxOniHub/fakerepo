@@ -21,3 +21,8 @@ $master = 12312;
 
 $master = "fresh";
 $master = "fresh 2";
+
+$bla = 1;
+$bla = 2;
+$bla = 3;
+
