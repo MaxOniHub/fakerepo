@@ -26,3 +26,5 @@ $bla = 1;
 $bla = 2;
 $bla = 3;
 
+$master = "fresh 3";
+
