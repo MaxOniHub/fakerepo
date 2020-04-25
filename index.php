@@ -20,3 +20,4 @@ $master = 12312;
 $master = 12312;
 
 $master = "fresh";
+$master = "fresh 2";
